@@ -1,3 +1,9 @@
+## 1.2.1 (2024-09-15)
+
+### Fix
+
+- bump node version; fix github action publish
+
 ## 1.2.0 (2024-09-15)
 
 ### Feat
