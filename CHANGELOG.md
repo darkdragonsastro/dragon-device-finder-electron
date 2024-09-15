@@ -1,3 +1,9 @@
+## 1.2.0 (2024-09-15)
+
+### Feat
+
+- auto-release with github actions
+
 ## 1.1.1 (2024-09-15)
 
 ### Fix
